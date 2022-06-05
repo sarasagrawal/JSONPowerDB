@@ -18,3 +18,10 @@ Schema-free, Simple to use, Nimble and In-Memory database.
 It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
+
+Screenshots:
+
+
+![Screenshot (50)](https://user-images.githubusercontent.com/77405373/172050363-8bc7813f-528b-4b27-9631-a295342b89e7.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/77405373/172050358-57220853-6465-44f2-87ea-fab9f122c905.png)
+
